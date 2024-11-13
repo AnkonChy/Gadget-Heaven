@@ -1,0 +1,212 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/C5VzKJ4/i-Phone-15-Plus-2-6-5363.jpg",
+    "category": "phones",
+    "price": 1199,
+    "description": "Titanium design with A17 Pro chip, 5x optical zoom, and USB-C connectivity.",
+    "specification": [
+      "6.7-inch display",
+      "256GB storage",
+      "48MP Main, 12MP Ultra Wide, 12MP Telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 2,
+    "product_title": "ASUS ROG Zephyrus G16",
+    "product_image": "https://i.ibb.co.com/H462zMq/ROG-Zephyrus-G16-2024.webp",
+    "category": "laptops",
+    "price": 1799,
+    "description": "Gaming laptop with AMD Ryzen 7000 series CPU and NVIDIA RTX 40 series GPU.",
+    "specification": ["16-inch QHD display", "32GB RAM", "1TB SSD"],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://i.ibb.co.com/M5RpZP5/Pixel-8-Pro-Bay-1840.jpg",
+    "category": "phones",
+    "price": 999,
+    "description": "Advanced AI features, Titan M2 security chip, and Google Tensor G3 processor.",
+    "specification": [
+      "6.7-inch display",
+      "128GB storage",
+      "50MP wide, 12MP ultra-wide, 48MP telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "product_id": 4,
+    "product_title": "OnePlus 12",
+    "product_image": "https://i.ibb.co.com/4WKhVsm/One-Plus-12-Flowy-Emerald-9569.jpg",
+    "category": "phones",
+    "price": 799,
+    "description": "Fluid AMOLED 120Hz display with Snapdragon 8 Gen 3 processor for smooth performance.",
+    "specification": [
+      "6.7-inch display",
+      "256GB storage",
+      "50MP wide, 48MP ultra-wide, 32MP telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 5,
+    "product_title": "Xiaomi 14 Pro",
+    "product_image": "https://i.ibb.co.com/z6dsFFN/Black-8589.jpg",
+    "category": "phones",
+    "price": 1099,
+    "description": "Advanced camera capabilities and sleek design, ideal for photography lovers.",
+    "specification": [
+      "6.7-inch display",
+      "256GB storage",
+      "50MP wide, 50MP ultra-wide, 50MP telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 3
+  },
+  {
+    "product_id": 6,
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://i.ibb.co.com/RzFWfRd/651441b0a7667141c30887c8-sony-xperia-1-iv-5g-smartphone.jpg",
+    "category": "phones",
+    "price": 1299,
+    "description": "4K OLED display with a pro-grade triple-lens camera for unparalleled photo quality.",
+    "specification": [
+      "6.5-inch display",
+      "256GB storage",
+      "12MP wide, ultra-wide, telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 7,
+    "product_title": "MacBook Pro M3",
+    "product_image": "https://i.ibb.co.com/qFJQGLt/dsc02399-enhanced-nr.jpg",
+    "category": "laptops",
+    "price": 1999,
+    "description": "Powered by the Apple M3 chip, with a Liquid Retina XDR display and exceptional battery life.",
+    "specification": ["14-inch display", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "product_id": 8,
+    "product_title": "Dell XPS 15 2024",
+    "product_image": "https://i.ibb.co.com/fG4Zf2j/196-C933-F-04-F6-4-DB9-AAF1-64-CAF5902090-159023-720x.webp",
+    "category": "laptops",
+    "price": 1499,
+    "description": "Sleek design, OLED display, and Intel 13th Gen processors for high performance.",
+    "specification": ["15.6-inch OLED display", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "product_id": 9,
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/3c52rWm/Galaxy-S24-Ultra-Titanium-Black-1587.jpg",
+    "category": "phones",
+    "price": 1199,
+    "description": "6.8-inch Dynamic AMOLED 2X display with Snapdragon 8 Gen 3 processor and 200MP main camera.",
+    "specification": [
+      "6.8-inch display",
+      "256GB storage",
+      "200MP wide, 12MP ultra-wide, 10MP telephoto cameras"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+
+  {
+    "product_id": 10,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://i.ibb.co.com/KV2wDgR/Apple-Watch-Series-9-3-6716.jpg",
+    "category": "smart watches",
+    "price": 399,
+    "description": "Enhanced health tracking and Siri integration with a more powerful S9 chip.",
+    "specification": [
+      "1.9-inch display",
+      "Heart rate monitor",
+      "Blood Oxygen sensor"
+    ],
+    "availability": true,
+    "rating": 2
+  },
+  {
+    "product_id": 11,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://i.ibb.co.com/gr4Zp5G/Galaxy-Watch6-Gold-5232.jpg",
+    "category": "smart watches",
+    "price": 349,
+    "description": "Comprehensive health tracking, custom workouts, and advanced sleep analysis.",
+    "specification": [
+      "1.5-inch AMOLED display",
+      "Body composition tracking",
+      "Sleep coaching"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 12,
+    "product_title": "Garmin Venu 3",
+    "product_image": "https://i.ibb.co.com/tmGL1L5/venu-3-whitestone-cf-lg.webp",
+    "category": "smart watches",
+    "price": 499,
+    "description": "Fitness-focused smart watch with GPS and detailed performance metrics.",
+    "specification": [
+      "1.3-inch AMOLED display",
+      "GPS",
+      "Heart rate and SpO2 tracking"
+    ],
+    "availability": true,
+    "rating": 5
+  },
+  {
+    "product_id": 13,
+    "product_title": "Samsung Odyssey Neo G9 57",
+    "product_image": "https://i.ibb.co.com/8Kxd4Cw/Samsung-Odyssey-Neo-G9-57.webp",
+    "category": "monitors",
+    "price": 2499,
+    "description": "57-inch ultra-wide gaming monitor with Quantum Mini LED technology and 240Hz refresh rate.",
+    "specification": [
+      "57-inch curved display",
+      "Dual UHD",
+      "240Hz refresh rate"
+    ],
+    "availability": true,
+    "rating": 4
+  },
+  {
+    "product_id": 14,
+    "product_title": "LG UltraFine OLED Pro",
+    "product_image": "https://i.ibb.co.com/31gGgMY/LG-Ultra-Fine-OLED-Pro.webp",
+    "category": "monitors",
+    "price": 1999,
+    "description": "Professional OLED monitor with accurate color calibration and HDR capabilities.",
+    "specification": ["32-inch OLED display", "4K resolution", "HDR 400"],
+    "availability": true,
+    "rating": 3
+  },
+  {
+    "product_id": 15,
+    "product_title": "Dell UltraSharp U4323QE",
+    "product_image": "https://i.ibb.co.com/SJJP503/Dell-Ultra-Sharp-U4323-QE.jpg",
+    "category": "monitors",
+    "price": 1299,
+    "description": "42.5-inch 4K UHD monitor ideal for multitasking with USB-C and power delivery.",
+    "specification": [
+      "42.5-inch display",
+      "4K resolution",
+      "USB-C with power delivery"
+    ],
+    "availability": true,
+    "rating": 3
+  }
+]
